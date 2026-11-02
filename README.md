@@ -44,6 +44,10 @@ The `index.html` file in this repository contains the custom treatment-booking i
 
 The complete Wix website is available through the live website link above.
 
+### Full Wix Website Preview
+
+![AVORA CLINIC Wix Homepage](wix-homepage.png)
+
 ## Website Preview
 
 ![AVORA CLINIC Homepage](homepage.png)
