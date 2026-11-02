@@ -38,3 +38,7 @@ The website was developed using AI-assisted coding and iterative testing to refi
 The application was also containerized using Docker and successfully deployed to Microsoft Azure using Azure Container Registry and Azure Container Apps.
 
 The Docker and Azure deployment workflow will be documented in a separate GitHub repository.
+
+## Website Preview
+
+![AVORA CLINIC Homepage](homepage.png)
