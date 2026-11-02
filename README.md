@@ -51,3 +51,27 @@ The complete Wix website is available through the live website link above.
 ## Website Preview
 
 ![AVORA CLINIC Homepage](homepage.png)
+
+## AI Chatbot Integration — Wix Smart Chat
+
+AVORA CLINIC includes an AI-powered customer assistance chatbot configured using Wix Smart Chat.
+
+### Features
+- Answers visitor questions about available aesthetic treatments.
+- Provides information about consultations and booking enquiries.
+- Displays relevant treatment suggestions and service cards.
+- Uses indexed website content to generate responses.
+- Supports automated visitor assistance.
+
+### Configuration and Testing
+- Configured 7 AI guidance rules.
+- Connected the chatbot to indexed website content.
+- Customized the chatbot's communication style.
+- Successfully tested treatment and booking questions in Wix's private testing environment.
+
+### AI Chatbot Demonstration
+
+![AVORA CLINIC AI Chatbot](ai-chatbot.png)
+
+**Platform:** Wix Smart Chat
+
