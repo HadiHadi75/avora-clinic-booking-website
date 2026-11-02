@@ -1,43 +1,48 @@
-# AVORA CLINIC — Treatment Booking Website
+# AVORA CLINIC — Complete Website Project
+
+## Live Website
+
+🌐 **[Visit AVORA CLINIC](https://avoraclinic.wixsite.com/my-site-1)**
 
 ## Project Overview
 
-AVORA CLINIC is a responsive treatment-booking website developed using HTML, CSS and JavaScript.
+AVORA CLINIC is an aesthetic clinic website designed and developed using Wix, with additional custom frontend development using HTML, CSS and JavaScript.
 
-The application allows visitors to explore clinic treatments, view pricing, select services, choose preferred appointment dates and times, and prepare booking enquiries through WhatsApp.
+The project combines visual website design, treatment information, consultation enquiries and a custom-built treatment-booking interface.
 
-## Technologies Used
+## Main Website Features
 
+- Branded clinic homepage
+- Treatment categories and service information
+- Clinic philosophy and aesthetic approach
+- Consultation enquiry form
+- Instagram enquiry integration
+- Responsive website presentation
+- Custom HTML, CSS and JavaScript treatment-booking interface
+
+## Technologies and Platforms
+
+- Wix Website Builder
 - HTML5
 - CSS3
 - JavaScript
 - Visual Studio Code
 - AI-assisted development
+- Docker and Microsoft Azure for the separate custom booking application
 
-## Key Features
+## Project Architecture
 
-- Interactive treatment catalogue
-- Treatment pricing and selection
-- Booking cart
-- Appointment date and time selection
-- WhatsApp booking enquiries
-- Responsive website interface
+**Main Website:** Wix → AVORA CLINIC website → Treatment information and consultation enquiries
 
-## How to Run the Project
+**Custom Booking Application:** HTML/CSS/JavaScript → Docker → Azure Container Registry → Azure Container Apps
 
-1. Download the repository.
-2. Open `index.html` in a web browser.
-3. Explore the treatment catalogue and booking interface.
+The Wix website and the custom booking application are separate parts of the wider AVORA CLINIC project.
 
-## Development Approach
+## Custom Development
 
-The website was developed using AI-assisted coding and iterative testing to refine the interface and user experience.
+The `index.html` file in this repository contains the custom treatment-booking interface developed separately from the Wix website.
 
-## Cloud Deployment
-
-The application was also containerized using Docker and successfully deployed to Microsoft Azure using Azure Container Registry and Azure Container Apps.
-
-The Docker and Azure deployment workflow will be documented in a separate GitHub repository.
+The complete Wix website is available through the live website link above.
 
 ## Website Preview
 
